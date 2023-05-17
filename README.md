@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Vítor Augusto 👋
 
-#### Faço parte da CodeTroppers Inatel - equipe de programação competitiva 
+#### Estudante de Eng. de Software | Inatel
+##### Faço parte da CodeTroppers Inatel - equipe de programação competitiva 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsantiagodocarmo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vitao_auu)
