@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vitao_auu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitao_asantiago/?hl=pt-br)
 
-![VitorAu GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAu&show_icons=true&theme=dracula)
+![VitorAu GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAu&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
