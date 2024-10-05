@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 💡 I'm currently studying Next.js, Typescript, TailwindCSS<br>• 📬 contact: vitoraugustosantiago@outlook.com.br
+• 💡 I'm currently studying Node.JS, Typescript<br>• 📬 contact: vitoraugustosantiago@outlook.com.br
 
 
 ## 🌐 Socials:
